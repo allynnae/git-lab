@@ -1,4 +1,4 @@
 Allison McKee
 GitHub = allynnae
-Email = am893120@ohio.edu
-My answers will be located in answers.md.
+My email address is am893120@ohio.edu and my recorded answers can be located in answers.md.
+cs 2400, Section 110
